@@ -1,0 +1,7 @@
+[
+    {
+        "directory": "e:/Coding/CPP-Handcoding-Questions",
+        "command": "g++ -std=c++17 -Ie:/Coding/CPP-Handcoding-Questions -Ie:/Coding/CPP-Handcoding-Questions/smart_pointers -Ie:/Coding/CPP-Handcoding-Questions/unordered_map -c -o dummy.o dummy.cpp",
+        "file": "dummy.cpp"
+    }
+]

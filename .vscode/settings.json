@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.proto": "proto3",
+        "list": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "C:/MinGW/bin/g++.exe",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}",
+        "${workspaceFolder}/smart_pointers",
+        "${workspaceFolder}/unordered_map"
+    ]
+}
